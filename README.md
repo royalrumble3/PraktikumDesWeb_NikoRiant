@@ -2,7 +2,6 @@
   <HEAD>
     <P ALIGN="CENTER"><h1>LAPORAN PRAKTIKUM</h1></P>
   </HEAD>
-<HR>
   <BODY>
     <p>
       <strong>
