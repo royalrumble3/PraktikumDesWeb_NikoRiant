@@ -13,7 +13,7 @@
     </p>
         <P>1. <A href="#"> MODUL 1 </a><br>
       2.<A HREF="https://codepen.io/collection/mrpMQZ"> MODUL 2 DAN 3</A><BR>
-     3.<A HREF="https://codepen.io/collection/JGkxOM"> MODUL4</A><br>
-     4.<a href ="#"> MODUL5</a></p>
+     3.<A HREF="https://codepen.io/collection/JGkxOM"> MODUL 4</A><br>
+     4.<a href ="#"> MODUL 5</a></p>
 </BODY>
 </HTML>
