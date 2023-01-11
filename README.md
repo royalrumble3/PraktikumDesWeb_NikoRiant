@@ -2,10 +2,11 @@
 
 
 <b>
-    Mohamad Nafis<br>
-    21104410067<br>
+    Niko Riant Cahyono<br>
+    21104410083<br>
     Teknik Informatika B<br>
     Universitas Islam Balitar<br>
+    Sesi-2<br>
 </b>
 <br><br>
 
