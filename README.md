@@ -12,9 +12,10 @@
 
      ## 🔗 Live Preview Tugas
 
-- Pertemuan 1   : [Klik Aja](https://codepen.io/collection/oEpPma)
+- Pertemuan 1   : [Klik Aja](https://codepen.io/collection/ZMzEkm)
 - Pertemuan 2&3 : [Klik Aja](https://codepen.io/collection/mrpMQZ)
 - Pertemuan 4   : [Klik Aja](https://codepen.io/collection/JGkxOM)
+- Pertemuan 5   : [Klik Aja](https://codepen.io/collection/ExoJLE)
 - Pertemuan 5   : [Klik Aja](https://codepen.io/collection/ExoJLE)
 
 <br>
